@@ -3,6 +3,59 @@
 
 每日整理开源
 
+Contains the following content：
+
+
+## 2015-10-21
+
+
+
+
+https://github.com/thiagokimo/Base  
+
+	MVP
+
+
+http://androidkickstartr.com/  
+
+	自动生成APP网页
+
+
+https://github.com/yanchenko/droidparts  框架
+
+	a carefully crafted Android framework that includes:
+
+	DI - injection of Views, Fragments, Services, etc.
+	ORM - efficient persistence utilizing Cursors & fluent API.
+	EventBus for posting event notifications.
+	Simple JSON (de)serialization capable of handling nested objects.
+	Improved AsyncTask & IntentService with Exceptions & result reporting support.
+	Logger that figures out tag itself & logs any object.
+	RESTClient for GETting, PUTting, POSTing, DELETing & InputStream-getting, also speaks JSON.
+	ImageFetcher to asynchronously attach images to ImageViews, with caching, cross-fade & transformation support.
+	Numerous Utils.
+
+
+
+https://github.com/spirosoik/RapidAndroidFramework   
+
+	集合多个框架而成的框架
+
+
+
+https://github.com/frostymarvelous/DroidFlux
+
+	DroidFlux is an Android port of the popular Fluxxor library that seeks to implement the Flux Architecture as popularised by Facebook.
+
+
+https://github.com/skimarxall/RxFlux
+
+	RxFlux is small light-weight framework that makes it easy to follow the Flux pattern with RxJava functionalities.
+
+	
+https://github.com/simple-android-framework/android_design_patterns_analysis
+
+	Android源码设计模式分析开源项目
 
 
 # 2015-10-22 
