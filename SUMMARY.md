@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Libraries-EveryDay
+* [Libraries-EveryDay](libraries-everyday.md)
 
