@@ -10,7 +10,14 @@
 
 #Library# 
 
+//10-22架构
 
+
+https://github.com/tehmou/rx-android-architecture
+
+https://github.com/rallat/EffectiveAndroid
+
+https://github.com/ivacf/archi
 
 https://github.com/cooltechworks/SendEmailAnimation   一个发送Email的动画效果
 
@@ -33,18 +40,6 @@ https://github.com/TakeoffAndroid/AppIntroAnimation   一个引导页
 ![](https://cloud.githubusercontent.com/assets/11768239/9027657/600244d6-397b-11e5-916f-409d4ab3de28.gif)
 
 
-文章：
-
-http://gank.io/post/560e15be2dca930e00da1083
-给 Android 开发者的 RxJava 详解
-
-
-网站：
-
-http://gank.io/post
-重新开始一次认真的写作  daimajia创建
-
-
 https://github.com/JakeWharton/scalpel
 
 ![](https://github.com/JakeWharton/scalpel/raw/master/images/sample.gif)
@@ -52,15 +47,34 @@ https://github.com/JakeWharton/scalpel
 https://github.com/JakeWharton/ProcessPhoenix   Process Phoenix facilitates restarting your application process.
 
 
+#Art# 
 
 
 
-//10-22架构
+http://gank.io/post/560e15be2dca930e00da1083
+给 Android 开发者的 RxJava 详解
 
 
-https://github.com/tehmou/rx-android-architecture
 
-https://github.com/rallat/EffectiveAndroid
 
-https://github.com/ivacf/archi
+#WebSite# 
+
+
+
+http://gank.io/post
+重新开始一次认真的写作  daimajia创建
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
